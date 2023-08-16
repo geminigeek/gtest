@@ -1,2 +1,9 @@
+# folder and file inside public/inpublic/ will not be commited 
 public/inpublic/*
-/tmp
+
+#root tmp will not be commited
+#tmp
+
+
+# all tmp folder will not be commited in any, subfolder its in root
+#tmp
